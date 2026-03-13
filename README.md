@@ -46,6 +46,7 @@ The goal is to visualize accident hotspots and contributing factors to gain insi
 - **Contributing Factors:** Road conditions, weather, and time of day  
 - **Insights:** Patterns that highlight risk areas and conditions in Indian traffic accidents  
 
+###   For Example
 ![Total Accidents by City](total_accidents_by_city%2004%20image.png)  
 ![Total Accidents by Cause](total_accidents_by_cause%2004%20image.png)
 
